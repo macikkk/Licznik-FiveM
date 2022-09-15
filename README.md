@@ -1,12 +1,3 @@
-# fivem-speedometer (SexySpeedometer)
-
-Good looking speedometer for FiveM, a fork of the original speedometer by [Bluethefurry](https://github.com/Bluethefurry) with awesome improvements. It comes pre-installed with [initialdspeedo](https://github.com/Bluethefurry/initialdspeedo-fivem) (extra skins). The speed unit used is automatically selected depending on your settings.
-
-### Links
-
-- [FiveM thread](https://forum.fivem.net/t/release-sexyspeedometer-tacho-dashboard-elements-skins-fuel/39772)
-- [Tutorial: make your own skin](https://forum.fivem.net/t/release-sexyspeedometer-tacho-dashboard-elements-skins-fuel/39772/108)
-
 ### Preview images
 
 ![default](https://i.imgur.com/oEr9R2u.png) default
