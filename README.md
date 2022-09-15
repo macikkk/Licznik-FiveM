@@ -11,7 +11,7 @@
 ### Commands
 
 ```bash
-- /speedoskin [skinName]
+- /speedoskin [nazwa skina]
 - /speedoskins
 - /speedotoggle
 ```
